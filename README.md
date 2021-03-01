@@ -1,4 +1,4 @@
-# Qiskit-Introduction-Workshop
+# Qiskit-Introduction-Workshop  updated to Qiskit version 0.23.6 
 
 qiskit-Terra
 
